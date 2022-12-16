@@ -1,0 +1,170 @@
+{
+    "main": {
+      "name":"Daniel Papert",
+      "description":"Project Manager & Junior Developer",
+      "image":"profilepic.jpg",
+      "bio":"My name is Dan Papert and I am a Project Manager looking to break into tech. I am working on my software development skills in order to gain knowledge in the space and broaden my horizons.",
+      "contactmessage":"Feel free to contact me via email, this form, or LinkedIn",
+      "email": "dpapert@gmail.com",
+      "phone": "914-417-7070",
+      "github":"https://github.com/dpapert1995",
+      "project":"https://www.linkedin.com/in/daniel-papert-pmp-585851112/",
+      "address":{
+        "street":"180 E 101st Street",
+        "city":"New York",
+        "state":"NY",
+        "zip": "10029"
+      },
+      "website": "https://github.com/dpapert1995",
+      "resumedownload":"https://docs.google.com/document/d/1O5Evl9Nf-VrD4e-KFV6Zo2gZh-lZA0czVKy6xNuqyz0/edit?usp=sharing",
+      "social":[
+        {
+          "name":"github",
+          "url":"https://github.com/dpapert1995",
+          "className":"fa fa-github"
+        },
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/daniel-papert-pmp-585851112/",
+          "className":"fa fa-linkedin"
+        }
+      ]
+    },
+    "resume":{
+      "skillmessage":"* Each skill level is weighted in correlation to the remaining skills",
+      "education":[
+        {
+          "school":"Bucknell University",
+          "gpa": "3.1",
+          "degree":"Bachelors of Science in Mechanical Engineering",
+          "graduated":"May 2018",
+          "description":"Course work included academic software (Solidworks, MATLAB), Thermodynamics, Fluid Dynamics, Aerodynamics, Machine Learning, Solid Mechanics"
+        },
+        {
+          "school":"Columbia University",
+          "gpa": "A+",
+          "degree":"Bootcamp Coding Certificate",
+          "graduated":"January 2023",
+          "description":"Coursework included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, Git"
+        }
+      ],
+      "work":[
+        {
+          "company":"ASME",
+          "title":"SES Project Engineer",
+          "years":"September 2018",
+          "description":"Develop Engineering products and services for broader industry, work internally on process improvement"
+        }
+      ],
+      "skills":[
+        {
+          "name":"HTML / CSS / Bootstrap",
+          "level":"100%"
+        },
+        {
+          "name":"ReactJS",
+          "level":"80%"
+        },
+        {
+          "name":"MongoDB / Mongoose",
+          "level":"80%"
+        },
+        {
+          "name":"Terminal / Git",
+          "level":"95%"
+        },
+        {
+          "name":"NodeJS / ExpressJS",
+          "level":"100%"
+        },
+        {
+          "name":"MySQL / Sequelize",
+          "level":"95%"
+        },
+        {
+          "name":"JavaScript / jQuery",
+          "level":"95%"
+        },
+        {
+          "name":"REST APIs",
+          "level":"80%"
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"Winstreak",
+          "shorttitle": "A Sports Trivia Game",
+          "category":"Group Project",
+          "image":"NHL_Logo.png",
+          "info":"HTML, CSS, JS, Bootstrap, Adobe Photoshop",
+          "url":"https://cpkopp12.github.io/project1-group4/",
+          "repo":"https://github.com/cpkopp12/project1-group4"
+        },
+        {
+          "title":"Paw Pals",
+          "shorttitle": "A pet locator app",
+          "category":"Group Project",
+          "image":"orangepaw.png",
+          "info":"Express, Nodejs, HTML, CSS, JS, jQuery",
+          "url":"https://pawpals22.herokuapp.com/",
+          "repo":"https://github.com/caitoreilly/paw-pals"
+        },
+        {
+          "title":"Exployee Tracker",
+          "shorttitle": "An Employee database app",
+          "category":"Academic Project",
+          "image":"EmployeeTracker.PNG",
+          "info":"MySQL/ MySQL2, Node.js, console.table, Inquirer, Javascript",
+          "url":"https://www.youtube.com/watch?v=oG06Zgq3tlA",
+          "repo":"https://github.com/dpapert1995/employee-tracker-dp"
+        },
+        {
+          "title":"Time Quiz",
+          "shorttitle": "A Timed Coding Quiz",
+          "category":"Academic Project",
+          "image":"quiz.PNG",
+          "info":"HTML, CSS, JS",
+          "url":"https://dpapert1995.github.io/timed-quiz-dp/",
+          "repo":"https://github.com/dpapert1995/timed-quiz-dp"
+        },
+        {
+          "title":"Workday Scheduler",
+          "shorttitle": "A basic scheduling app",
+          "category":"Academic Project",
+          "image":"Scheduler.PNG",
+          "info":"HTML, CSS, Javascript, JQuery",
+          "url":"https://dpapert1995.github.io/work-day-scheduler-dp/",
+          "repo":"https://github.com/dpapert1995/work-day-scheduler-dp"
+        },
+        {
+          "title":"Password Generator",
+          "shorttitle": "A basic password generator",
+          "category":"Academic Project",
+          "image":"PassGen.png",
+          "info":"HTML, CSS, JS",
+          "url":"https://dpapert1995.github.io/pass-gen-dp/",
+          "repo":"https://github.com/dpapert1995/pass-gen-dp"
+        },
+        {
+          "title":"Weather Dashboard",
+          "shorttitle": "Weather Dashboard",
+          "category":"Academic Project",
+          "image":"weatherDashboard.png",
+          "info":"HTML, CSS, Bootstrap, JS, jQuery, OpenWeather API, MapQuest API",
+          "url":"https://dpapert1995.github.io/weather-dashboard-dp/",
+          "repo":"https://github.com/dpapert1995/weather-dashboard-dp"
+        },
+        {
+          "title":"Note Taker",
+          "shorttitle": "A basic note taker application.",
+          "category":"Academic Project",
+          "image":"Notetaker.png",
+          "info":"Javascript, Node.js, Express.js, Heroku",
+          "url":"https://note-taker-dp-heroku.herokuapp.com/",
+          "repo":"https://github.com/dpapert1995/note-taker-dp"
+        }
+      ]
+    }
+  }
